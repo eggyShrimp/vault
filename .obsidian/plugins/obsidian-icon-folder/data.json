@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiLanguage",
+      "TiBrandRust",
+      "🧑‍🎨",
+      "❓",
+      "FabGoogle"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "inbox/如何设计同时支持低码和源码的应用框架.md": {
+    "iconName": "⌨",
+    "inheritanceIcon": "⌨"
+  },
+  "inbox/解释语言，编译语言和JIT的解释以及他们的区别.md": "⌨",
+  "inbox/读了三遍苏式面.md": "😋",
+  "inbox/Moment.js vs Luxon - DEV Community.md": "⌨",
+  "inbox/reactjs - what is the difference between React.FC and JSX.Element - Stack Overflow.md": "⌨",
+  "page/JavaScript 高级程序设计.md": "📖",
+  "page/Antd.Grid.md": "🐜",
+  "page/入门字符的发展简史与概念.md": "🈶",
+  "page/编程类型与系统 Programming with Type.md": "📖",
+  "inbox/设计通识课.md": "🧑‍🎨",
+  "inbox/啤酒.md": "🍺",
+  "inbox/荠菜.md": "🍲",
+  "inbox/文言文中的定语后置、宾语前置等句型的学习和判别.md": "📑",
+  "inbox/IEEE754 浮点数格式与Javascript number 的特性.md": "⌨",
+  "Home.md": "😮",
+  "inbox/Page Lifecycle API 页面生命周期 API.md": "🌀",
+  "inbox/前端下载文件的5种方法的对比(附加获取文件名 - 掘金.md": "⬇",
+  "page/Implementation of Chrome extension.md": "FabFirefoxBrowser",
+  "inbox/variable fonts - 更小更灵活的字体.md": "🐥",
+  "page/状态管理.md": "🌗",
+  "inbox/设计稿和 CSS 样式实际渲染存在出入.md": "🎨",
+  "page/Google IO 2023 - What's new in Web UI.md": "FabGoogle",
+  "page/Google IO 2024 - What's new in Web UI.md": "FabGoogle",
+  "page/View Transition API.md": "🎨",
+  "page/不同场景的样式渲染 market.md": "📚",
+  "Q&A.md": "❓",
+  "page/CRACO 搭建的项目线上缺少 Source Map.md": "🐛",
+  "page/React.Devs.md": "FabReact",
+  "page/政委座谈会.md": "🗣",
+  "inbox/SOTA of state management in React.md": "🧑‍🎨",
+  "page/Rust lang.md": "TiLanguage"
+}

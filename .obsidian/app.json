@@ -1,0 +1,10 @@
+{
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets",
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true
+}

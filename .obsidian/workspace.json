@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "f037bf8d2395979f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a82643e8f129a9c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91ddb50fbd3c3d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/刚刚开通了Hexo博客，来写写东西吧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "663696bdda560c11",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c44d4b757716eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8bcacfa74c109f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33346f2530feff9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63854d82e342ce04",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b85f052c083a6830",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "04082693a5fab427",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f592b82d14c2f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5d83c3dee9d83a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/刚刚开通了Hexo博客，来写写东西吧.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "289042c7dc08b9c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/刚刚开通了Hexo博客，来写写东西吧.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac3e9a2aa2bbed97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a93b1d2ceb1c859",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/刚刚开通了Hexo博客，来写写东西吧.md"
+              }
+            }
+          },
+          {
+            "id": "b8e5d4a53fd10f89",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "47129401b7b9bf50",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "364a22747bf59c0e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c9d6dad879ce07f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "homepage:Open homepage": false,
+      "daily-notes:打开/创建今天的日记": false
+    }
+  },
+  "active": "91ddb50fbd3c3d21",
+  "lastOpenFiles": [
+    "pages/读羊脂球随感.md",
+    "pages/住在雪国的驹子.md",
+    "hexo_deploy/node_modules/micromatch/README.md",
+    "hexo_deploy/node_modules/micromatch/package.json",
+    "hexo_deploy/node_modules/micromatch/LICENSE",
+    "hexo_deploy/node_modules/micromatch/index.js",
+    "hexo_deploy/node_modules/micromatch",
+    "hexo_deploy/node_modules/cuid/lib/pad.js",
+    "hexo_deploy/node_modules/cuid/lib/getRandomValue.react-native.js",
+    "hexo_deploy/node_modules/cuid/lib/fingerprint.react-native.js",
+    "hexo_deploy/node_modules/cuid/lib/getRandomValue.browser.js",
+    "hexo_deploy/node_modules/cuid/lib/getRandomValue.js",
+    "hexo_deploy/node_modules/cuid/lib/fingerprint.browser.js",
+    "hexo_deploy/node_modules/cuid/README.md",
+    "hexo_deploy/node_modules/util-deprecate/README.md",
+    "hexo_deploy/node_modules/util-deprecate/History.md",
+    "hexo_deploy/node_modules/readable-stream/README.md",
+    "hexo_deploy/node_modules/readable-stream/GOVERNANCE.md",
+    "hexo_deploy/node_modules/readable-stream/CONTRIBUTING.md",
+    "hexo_deploy/node_modules/through2/README.md",
+    "hexo_deploy/node_modules/through2/LICENSE.md",
+    "hexo_deploy/node_modules/deepmerge/readme.md",
+    "hexo_deploy/node_modules/deepmerge/changelog.md",
+    "hexo_deploy/node_modules/to-regex-range/README.md",
+    "hexo_deploy/node_modules/normalize-path/README.md",
+    "hexo_deploy/node_modules/tildify/readme.md",
+    "hexo_deploy/source/_posts/编程类型与系统 Programming with Type.md",
+    "hexo_deploy/source/_posts/刚刚开通了Hexo博客，来写写东西吧.md",
+    "hexo_deploy/source/_posts/住在雪国的驹子.md",
+    "hexo_deploy/source/_posts/不同场景的样式渲染 market.md",
+    "hexo_deploy/source/_posts/ideologies-in-web-responsive-design.md",
+    "hexo_deploy/node_modules/cssstyle/README.md",
+    "hexo_deploy/node_modules/nunjucks/README.md",
+    "hexo_deploy/node_modules/estraverse/README.md",
+    "hexo_deploy/node_modules/bytes/Readme.md",
+    "hexo_deploy/node_modules/bytes/History.md",
+    "hexo_deploy/public/images/apple-touch-icon.png",
+    "hexo_deploy/themes/cactus/source/css/_highlight/school-book.png",
+    "hexo_deploy/themes/cactus/source/css/_highlight/pojoaque.jpg",
+    "hexo_deploy/themes/cactus/source/css/_highlight/brown-papersq.png",
+    "hexo_deploy/themes/cactus/source/images/logo.png",
+    "hexo_deploy/themes/cactus/source/images/favicon-192x192.png",
+    "hexo_deploy/themes/cactus/source/images/apple-touch-icon.png",
+    "hexo_deploy/node_modules/hexo-theme-landscape/source/css/images/banner.jpg",
+    "hexo_deploy/node_modules/psl/browserstack-logo.svg",
+    "hexo_deploy/node_modules/highlight.js/styles/pojoaque.jpg",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "inbox/未命名.canvas"
+  ]
+}
