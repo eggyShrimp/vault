@@ -4,6 +4,8 @@ tags:
   - frontend
   - development
   - coding
+title: JavaScript 高级程序设计小记
+published: "true"
 ---
 - [ ] JavaScript 高级程序设计 #book #javascript 🔼 📅 2024-07-14
 
@@ -83,7 +85,7 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/Document/DOMContentLoaded_event
 
 1. [深入 JavaScript 系列：执行上下文](https://github.com/logan70/Blog/issues/2)
 2. 问下呢，为什么javascript会出现var的hoisting设计？有啥考虑吗，let/const为啥没有
-	[[JavaScript 高级程序设计#variable hoisting 变量提升背后的实现，为什么要有变量提升？]]
+	[[JavaScript 高级程序设计小记#variable hoisting 变量提升背后的实现，为什么要有变量提升？]]
 
 ### Javascript的基础数据类型有哪些？
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/JavaScript 高级程序设计.md",
+                "file": "pages/入门字符的发展简史与概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/JavaScript 高级程序设计.md",
+                "file": "pages/入门字符的发展简史与概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/JavaScript 高级程序设计.md",
+                "file": "pages/入门字符的发展简史与概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/JavaScript 高级程序设计.md"
+                "file": "pages/入门字符的发展简史与概念.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   "active": "0dc156b9f2df5b4e",
   "lastOpenFiles": [
     "pages/编程类型与系统 Programming with Type.md",
+    "pages/JavaScript 高级程序设计小记.md",
     "Home.md",
     "pages/不同场景的样式渲染 market.md",
     "pages/入门字符的发展简史与概念.md",
@@ -228,7 +229,6 @@
     "hexo_deploy/node_modules/deepmerge/changelog.md",
     "hexo_deploy/node_modules/to-regex-range/README.md",
     "hexo_deploy/node_modules/normalize-path/README.md",
-    "hexo_deploy/node_modules/tildify/readme.md",
     "hexo_deploy/public/images/apple-touch-icon.png",
     "hexo_deploy/themes/cactus/source/css/_highlight/school-book.png",
     "hexo_deploy/themes/cactus/source/css/_highlight/pojoaque.jpg",
