@@ -7,19 +7,19 @@ tags:
 ---
 - [ ] JavaScript 高级程序设计 #book #javascript 🔼 📅 2024-07-14
 
-- [[#JavaScript 是一种解释性语言，相比编译语言有什么好处？|JavaScript 是一种解释性语言，相比编译语言有什么好处？]]
-- [[#脚本加载中， DOMContentLoaded 事件和 load 事件的区别，和 defer 以及 async 的关系？|脚本加载中， DOMContentLoaded 事件和 load 事件的区别，和 defer 以及 async 的关系？]]
-- [[#variable hoisting 变量提升背后的实现，为什么要有变量提升？|variable hoisting 变量提升背后的实现，为什么要有变量提升？]]
-- [[#什么叫“函数是一等公民”？|什么叫“函数是一等公民”？]]
-- [[#`let` `const` `var` 的区别有什么？|`let` `const` `var` 的区别有什么？]]
-- [[#Javascript的基础数据类型有哪些？|Javascript的基础数据类型有哪些？]]
-- [[#undefined 的设计和 null 的设计有什么区分？|undefined 的设计和 null 的设计有什么区分？]]
-- [[#为什么 typeof null === 'object' 呢？|为什么 typeof null === 'object' 呢？]]
-- [[#difference between Number.isNaN and isNaN|difference between Number.isNaN and isNaN]]
-- [[#为什么会出现 0.1 + 0.2 > 0.3 的情况，怎么解决？|为什么会出现 0.1 + 0.2 > 0.3 的情况，怎么解决？]]
-- [[#利用 + 来完成数值转换背后的规则是什么？|利用 + 来完成数值转换背后的规则是什么？]]
-- [[#利用 Object.keys 和 for...in... 去遍历对象属性有什么区别？|利用 Object.keys 和 for...in... 去遍历对象属性有什么区别？]]
-- [[#面向原型编程概念和函数式编程之间的关联性？|面向原型编程概念和函数式编程之间的关联性？]]
+- [JavaScript 是一种解释性语言，相比编译语言有什么好处？](#javascript-%E6%98%AF%E4%B8%80%E7%A7%8D%E8%A7%A3%E9%87%8A%E6%80%A7%E8%AF%AD%E8%A8%80%E7%9B%B8%E6%AF%94%E7%BC%96%E8%AF%91%E8%AF%AD%E8%A8%80%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84)
+- [脚本加载中， DOMContentLoaded 事件和 load 事件的区别，和 defer 以及 async 的关系？](#%E8%84%9A%E6%9C%AC%E5%8A%A0%E8%BD%BD%E4%B8%AD-domcontentloaded-%E4%BA%8B%E4%BB%B6%E5%92%8C-load-%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C-defer-%E4%BB%A5%E5%8F%8A-async-%E7%9A%84%E5%85%B3%E7%B3%BB)
+- [variable hoisting 变量提升背后的实现，为什么要有变量提升？](#variable-hoisting-%E5%8F%98%E9%87%8F%E6%8F%90%E5%8D%87%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%9E%E7%8E%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%9C%89%E5%8F%98%E9%87%8F%E6%8F%90%E5%8D%87)
+- [什么叫“函数是一等公民”？](#%E4%BB%80%E4%B9%88%E5%8F%AB%E5%87%BD%E6%95%B0%E6%98%AF%E4%B8%80%E7%AD%89%E5%85%AC%E6%B0%91)
+- [`let` `const` `var` 的区别有什么？](#let-const-var-%E7%9A%84%E5%8C%BA%E5%88%AB%E6%9C%89%E4%BB%80%E4%B9%88)
+- [Javascript的基础数据类型有哪些？](#javascript%E7%9A%84%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B)
+- [undefined 的设计和 null 的设计有什么区分？](#undefined-%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%92%8C-null-%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%86)
+- [为什么 typeof null === 'object' 呢？](#%E4%B8%BA%E4%BB%80%E4%B9%88-typeof-null--object-%E5%91%A2)
+- [difference between Number.isNaN and isNaN](#difference-between%C2%A0numberisnan%C2%A0and%C2%A0isnan)
+- [为什么会出现 0.1 + 0.2 > 0.3 的情况，怎么解决？](#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%87%BA%E7%8E%B0-01--02--03-%E7%9A%84%E6%83%85%E5%86%B5%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3)
+- [利用 + 来完成数值转换背后的规则是什么？](#%E5%88%A9%E7%94%A8--%E6%9D%A5%E5%AE%8C%E6%88%90%E6%95%B0%E5%80%BC%E8%BD%AC%E6%8D%A2%E8%83%8C%E5%90%8E%E7%9A%84%E8%A7%84%E5%88%99%E6%98%AF%E4%BB%80%E4%B9%88)
+- [利用 Object.keys 和 for...in... 去遍历对象属性有什么区别？](#%E5%88%A9%E7%94%A8-objectkeys-%E5%92%8C-forin-%E5%8E%BB%E9%81%8D%E5%8E%86%E5%AF%B9%E8%B1%A1%E5%B1%9E%E6%80%A7%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+- [面向原型编程概念和函数式编程之间的关联性？](#%E9%9D%A2%E5%90%91%E5%8E%9F%E5%9E%8B%E7%BC%96%E7%A8%8B%E6%A6%82%E5%BF%B5%E5%92%8C%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E8%81%94%E6%80%A7)
 
 ### JavaScript 是一种解释性语言，相比编译语言有什么好处？
 
