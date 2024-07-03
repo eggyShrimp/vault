@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a82643e8f129a9c1",
+        "id": "8203018c591aa575",
         "type": "tabs",
         "children": [
           {
-            "id": "91ddb50fbd3c3d21",
+            "id": "d9def0b0a9365e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/入门字符的发展简史与概念.md",
+                "file": "pages/不同场景的样式渲染 market.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/入门字符的发展简史与概念.md",
+                "file": "pages/不同场景的样式渲染 market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/入门字符的发展简史与概念.md",
+                "file": "pages/不同场景的样式渲染 market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/入门字符的发展简史与概念.md"
+                "file": "pages/不同场景的样式渲染 market.md"
               }
             }
           },
@@ -191,12 +191,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "91ddb50fbd3c3d21",
+  "active": "d9def0b0a9365e15",
   "lastOpenFiles": [
-    "pages/不同场景的样式渲染 market.md",
-    "pages/读羊脂球随感.md",
     "pages/入门字符的发展简史与概念.md",
+    "Home.md",
     "pages/状态管理.md",
+    "pages/不同场景的样式渲染 market.md",
+    "pages/编程类型与系统 Programming with Type.md",
+    "pages/读羊脂球随感.md",
     "pages/Google IO 2024 - What's new in Web UI.md",
     "pages/Antd Grid Source Code Analysis.md",
     "pages/刚刚开通了Hexo博客，来写写东西吧.md",
@@ -227,8 +229,6 @@
     "hexo_deploy/node_modules/to-regex-range/README.md",
     "hexo_deploy/node_modules/normalize-path/README.md",
     "hexo_deploy/node_modules/tildify/readme.md",
-    "hexo_deploy/source/_posts/编程类型与系统 Programming with Type.md",
-    "hexo_deploy/source/_posts/刚刚开通了Hexo博客，来写写东西吧.md",
     "hexo_deploy/public/images/apple-touch-icon.png",
     "hexo_deploy/themes/cactus/source/css/_highlight/school-book.png",
     "hexo_deploy/themes/cactus/source/css/_highlight/pojoaque.jpg",
