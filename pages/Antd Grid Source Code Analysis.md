@@ -8,12 +8,13 @@ tags:
   - frontend
   - responsive-design
 ---
+- [`Props` 设计](#props-%E8%AE%BE%E8%AE%A1)
+- [核心逻辑](#%E6%A0%B8%E5%BF%83%E9%80%BB%E8%BE%91)
+- [响应式原理](#%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86)
+	- [整体执行步骤](#%E6%95%B4%E4%BD%93%E6%89%A7%E8%A1%8C%E6%AD%A5%E9%AA%A4)
+	- [`subscribe` 订阅逻辑](#subscribe-%E8%AE%A2%E9%98%85%E9%80%BB%E8%BE%91)
+	- [`window.matchMedia` 事件监听器](#windowmatchmedia-%E4%BA%8B%E4%BB%B6%E7%9B%91%E5%90%AC%E5%99%A8)
 
-- [[#核心逻辑|核心逻辑]]
-- [[#响应式原理|响应式原理]]
-  - [[#响应式原理#整体执行步骤|整体执行步骤]]
-  - [[#响应式原理#`subscribe` 订阅逻辑|`subscribe` 订阅逻辑]]
-  - [[#响应式原理#`window.matchMedia` 事件监听器|`window.matchMedia` 事件监听器]]
 
 ## `Props` 设计
 
