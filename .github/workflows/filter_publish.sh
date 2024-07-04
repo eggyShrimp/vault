@@ -7,7 +7,7 @@ BUILD_TARGET=hexo_deploy
 TARGET_DIRECTORY=$ROOT/$BUILD_TARGET/source/_posts
 
 cp .github/user/_config.yml $BUILD_TARGET/_config.yml
-cp -r .github/user/themes/cactus/_config.yml $BUILD_TARGET/themes/cactus/_config.yml
+cp -r .github/user/themes/minima/_config.yml $BUILD_TARGET/themes/minima/_config.yml
 
 # cp posts files
 published_files={}

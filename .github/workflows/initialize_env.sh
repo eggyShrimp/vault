@@ -12,6 +12,6 @@ cd $BUILD_TARGET
 
 # init hexo project & theme
 npm i
-git clone https://github.com/probberechts/hexo-theme-cactus.git themes/cactus
+git clone https://github.com/adisaktijrs/hexo-theme-minima.git themes/minima
 
 cd $ROOT
