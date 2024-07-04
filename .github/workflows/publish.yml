@@ -39,7 +39,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./hexo_deploy/public
+          path: ./dist/public
   deploy:
     needs: build
     permissions:
