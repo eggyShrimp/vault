@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16aa3fd4e4d4926c",
+        "id": "bb345377f93f4b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "b60b26f219e93dc0",
+            "id": "f41aadaed1381c0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "pages/移动端对于字体相关逻辑梳理.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "pages/移动端对于字体相关逻辑梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "pages/移动端对于字体相关逻辑梳理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "pages/移动端对于字体相关逻辑梳理.md"
               }
             }
           },
@@ -191,8 +191,16 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b60b26f219e93dc0",
+  "active": "f41aadaed1381c0c",
   "lastOpenFiles": [
+    "pages/color rendering.md",
+    "pages/移动端对于字体相关逻辑梳理.md",
+    "pages/i18n.md",
+    "Home.md",
+    "pages/deploy to github page - Obsidian plugin.md",
+    "pages/Implementation of Chrome extension.md",
+    "pages/ideologies-in-web-responsive-design.md",
+    "inbox/前端渲染字体的流程.md",
     "hexo_deploy/themes/minima/source/js/search.min.js",
     "hexo_deploy/themes/minima/source/js/nanobar.min.js",
     "hexo_deploy/themes/minima/source/js/pic.min.js",
@@ -208,7 +216,6 @@
     "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.woff",
     "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.ttf",
     "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.svg",
-    "hexo_deploy/themes/minima/source/css/skeleton.css",
     "hexo_deploy/themes/minima/README.md",
     "hexo_deploy/public/images/apple-touch-icon.png",
     "hexo_deploy/source/_posts/读羊脂球随感.md",
@@ -232,13 +239,6 @@
     "hexo_deploy/node_modules/fs.realpath/README.md",
     "hexo_deploy/node_modules/has-flag/readme.md",
     "hexo_deploy/node_modules/hexo-pagination/README.md",
-    "hexo_deploy/node_modules/hasown/README.md",
-    "hexo_deploy/node_modules/hasown/CHANGELOG.md",
-    "hexo_deploy/node_modules/graceful-fs/README.md",
-    "hexo_deploy/node_modules/highlight.js/VERSION_11_UPGRADE.md",
-    "hexo_deploy/node_modules/highlight.js/VERSION_10_UPGRADE.md",
-    "hexo_deploy/node_modules/highlight.js/SUPPORTED_LANGUAGES.md",
-    "hexo_deploy/node_modules/highlight.js/SECURITY.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "inbox/未命名.canvas"
