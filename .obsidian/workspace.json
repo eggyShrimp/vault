@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bb345377f93f4b4e",
+        "id": "d0b79a9b800b91e7",
         "type": "tabs",
         "children": [
           {
-            "id": "f41aadaed1381c0c",
+            "id": "919cbc613c10272f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/移动端对于字体相关逻辑梳理.md",
+                "file": "pages/color rendering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5938d57a17da0b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/React.Devs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/移动端对于字体相关逻辑梳理.md",
+                "file": "pages/React.Devs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/移动端对于字体相关逻辑梳理.md",
+                "file": "pages/React.Devs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/移动端对于字体相关逻辑梳理.md"
+                "file": "pages/React.Devs.md"
               }
             }
           },
@@ -191,12 +204,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f41aadaed1381c0c",
+  "active": "a5938d57a17da0b4",
   "lastOpenFiles": [
+    "Home.md",
     "pages/color rendering.md",
     "pages/移动端对于字体相关逻辑梳理.md",
     "pages/i18n.md",
-    "Home.md",
     "pages/deploy to github page - Obsidian plugin.md",
     "pages/Implementation of Chrome extension.md",
     "pages/ideologies-in-web-responsive-design.md",

@@ -3,7 +3,7 @@
 # var definition
 ROOT=$(pwd)
 SOURCE_DIRECTORY=pages
-BUILD_TARGET=hexo_deploy
+BUILD_TARGET=dist
 TARGET_DIRECTORY=$ROOT/$BUILD_TARGET/source/_posts
 
 # create folder
@@ -12,6 +12,6 @@ cd $BUILD_TARGET
 
 # init hexo project & theme
 npm i
-git clone https://github.com/probberechts/hexo-theme-cactus.git themes/cactus
+git clone https://github.com/eggyShrimp/cactus.git themes/cactus
 
 cd $ROOT
