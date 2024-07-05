@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b79a9b800b91e7",
+        "id": "83a3bf130b12b61f",
         "type": "tabs",
         "children": [
           {
-            "id": "919cbc613c10272f",
+            "id": "53a9eca7df373b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/color rendering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5938d57a17da0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/React.Devs.md",
+                "file": "pages/JavaScript 高级程序设计小记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/React.Devs.md",
+                "file": "pages/JavaScript 高级程序设计小记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/React.Devs.md",
+                "file": "pages/JavaScript 高级程序设计小记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +133,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/React.Devs.md"
+                "file": "pages/JavaScript 高级程序设计小记.md"
               }
-            }
-          },
-          {
-            "id": "b8e5d4a53fd10f89",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -187,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -204,16 +183,54 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "a5938d57a17da0b4",
+  "active": "53a9eca7df373b5e",
   "lastOpenFiles": [
-    "Home.md",
-    "pages/color rendering.md",
     "pages/移动端对于字体相关逻辑梳理.md",
+    "Home.md",
+    "pages/Unity 结合 Web3D 调研.md",
     "pages/i18n.md",
+    "未命名看板.md",
+    "pages/web-performance-optimization.md",
+    "pages/color rendering.md",
+    "pages/React.Devs.md",
+    "2024-W27.md",
     "pages/deploy to github page - Obsidian plugin.md",
     "pages/Implementation of Chrome extension.md",
     "pages/ideologies-in-web-responsive-design.md",
     "inbox/前端渲染字体的流程.md",
+    "hexo_deploy/themes/minima/source/js/search.min.js",
+    "hexo_deploy/themes/minima/source/js/nanobar.min.js",
+    "hexo_deploy/themes/minima/source/js/pic.min.js",
+    "hexo_deploy/themes/minima/source/images/thumbnail.jpg",
+    "hexo_deploy/themes/minima/source/images/favicon.png",
+    "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.woff2",
+    "hexo_deploy/themes/minima/source/images/epic-smiley.jpg",
+    "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.ttf",
+    "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.woff",
+    "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.svg",
+    "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.eot",
+    "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.woff2",
+    "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.woff",
+    "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.ttf",
+    "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.svg",
+    "hexo_deploy/themes/minima/README.md",
+    "hexo_deploy/public/images/apple-touch-icon.png",
+    "hexo_deploy/source/_posts/读羊脂球随感.md",
+    "hexo_deploy/source/_posts/编程类型与系统 Programming with Type.md",
+    "hexo_deploy/source/_posts/刚刚开通了Hexo博客，来写写东西吧.md",
+    "hexo_deploy/source/_posts/入门字符的发展简史与概念.md",
+    "hexo_deploy/source/_posts/住在雪国的驹子.md",
+    "hexo_deploy/source/_posts/不同场景的样式渲染 market.md",
+    "hexo_deploy/source/_posts/JavaScript 高级程序设计小记.md",
+    "hexo_deploy/source/_posts/ideologies-in-web-responsive-design.md",
+    "hexo_deploy/themes/cactus/source/css/_highlight/school-book.png",
+    "hexo_deploy/themes/cactus/source/css/_highlight/pojoaque.jpg",
+    "hexo_deploy/themes/cactus/source/css/_highlight/brown-papersq.png",
+    "hexo_deploy/themes/cactus/source/images/favicon-192x192.png",
+    "hexo_deploy/themes/cactus/README.md",
+    "hexo_deploy/node_modules/fresh/README.md",
+    "hexo_deploy/node_modules/fresh/HISTORY.md",
+    "hexo_deploy/node_modules/is-binary-path/readme.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "inbox/未命名.canvas"
