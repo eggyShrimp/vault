@@ -4,6 +4,8 @@ tags:
   - frontend
   - extension
 ---
+黑客马拉松第一次接触并实现了一个简单的 Chrome extension，可以用来后续技术圈分享
+
 - [ ] 完成这篇 extension 文章 🔼 ⏳ 2024-06-17 
 ## Ref
 

@@ -55,4 +55,4 @@ figma 对此取值逻辑是 floor，而实际浏览器实现则是 ceil。这就
 2. [Font in browser seem bolder than in the figma? / 浏览器渲染字体会比设计稿更粗一些？ - Ask the community - Figma Community Forum](https://forum.figma.com/t/font-in-browser-seem-bolder-than-in-the-figma/24656/5)
 3. [OpenType Design-Variation Axis Tag Registry (OpenType 1.9.1) - Typography | Microsoft Learn](https://learn.microsoft.com/en-us/typography/opentype/spec/dvaraxisreg)
 
-- [x] 完成这篇文档 ⏫ 📅 2024-06-18 ✅ 2024-06-18
+- [x] 完成”设计稿和 CSS 样式实际渲染存在出入“这篇文档 ⏫ 📅 2024-06-18 ✅ 2024-06-18

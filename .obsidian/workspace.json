@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83a3bf130b12b61f",
+        "id": "07ff95e3d996cb95",
         "type": "tabs",
         "children": [
           {
-            "id": "53a9eca7df373b5e",
+            "id": "27b257a8debf1ad3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/JavaScript 高级程序设计小记.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/JavaScript 高级程序设计小记.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/JavaScript 高级程序设计小记.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/JavaScript 高级程序设计小记.md"
+                "file": "Home.md"
               }
             }
           },
@@ -180,24 +180,39 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "homepage:Open homepage": false,
-      "daily-notes:打开/创建今天的日记": false
+      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "53a9eca7df373b5e",
+  "active": "27b257a8debf1ad3",
   "lastOpenFiles": [
-    "pages/移动端对于字体相关逻辑梳理.md",
+    "pages/《结构化思考力》掌握.md",
+    "pages/未命名.md",
+    "Q&A.md",
+    "pages/未命名 1.md",
     "Home.md",
-    "pages/Unity 结合 Web3D 调研.md",
-    "pages/i18n.md",
-    "未命名看板.md",
-    "pages/web-performance-optimization.md",
-    "pages/color rendering.md",
-    "pages/React.Devs.md",
-    "2024-W27.md",
+    "transform matrix.md",
+    "pages/Webcodec 小册.md",
+    "pages/View Transition API.md",
+    "pages/移动端对于字体相关逻辑梳理.md",
+    "pages/Monorepo与pnpm：前端项目管理的完美搭档.md",
+    "pages/富文本编辑器 Braft-Editor 优化.md",
+    "inbox/life of a character.md",
+    "pages/政委座谈会.md",
+    "inbox/What's the difference between dependencies devDependencies and peerDependencies in NPM package.md",
+    "inbox/reactjs - what is the difference between React.FC and JSX.Element - Stack Overflow.md",
+    "未命名.canvas",
+    "2024-07-12.md",
+    "inbox/variable fonts - 更小更灵活的字体.md",
+    "pages/入门字符的发展简史与概念.md",
+    "pages/读羊脂球随感.md",
+    "pages/编程类型与系统 Programming with Type.md",
+    "pages/Antd Grid 组件源码阅读.md",
+    "pages/B 端当前状态管理调研.md",
+    "pages/Color Rendering 屏幕色彩渲染.md",
     "pages/deploy to github page - Obsidian plugin.md",
     "pages/Implementation of Chrome extension.md",
-    "pages/ideologies-in-web-responsive-design.md",
-    "inbox/前端渲染字体的流程.md",
+    "inbox/设计稿和 CSS 样式实际渲染存在出入.md",
     "hexo_deploy/themes/minima/source/js/search.min.js",
     "hexo_deploy/themes/minima/source/js/nanobar.min.js",
     "hexo_deploy/themes/minima/source/js/pic.min.js",
@@ -213,25 +228,11 @@
     "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.woff",
     "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.ttf",
     "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.svg",
-    "hexo_deploy/themes/minima/README.md",
     "hexo_deploy/public/images/apple-touch-icon.png",
-    "hexo_deploy/source/_posts/读羊脂球随感.md",
-    "hexo_deploy/source/_posts/编程类型与系统 Programming with Type.md",
-    "hexo_deploy/source/_posts/刚刚开通了Hexo博客，来写写东西吧.md",
-    "hexo_deploy/source/_posts/入门字符的发展简史与概念.md",
-    "hexo_deploy/source/_posts/住在雪国的驹子.md",
-    "hexo_deploy/source/_posts/不同场景的样式渲染 market.md",
-    "hexo_deploy/source/_posts/JavaScript 高级程序设计小记.md",
-    "hexo_deploy/source/_posts/ideologies-in-web-responsive-design.md",
     "hexo_deploy/themes/cactus/source/css/_highlight/school-book.png",
     "hexo_deploy/themes/cactus/source/css/_highlight/pojoaque.jpg",
     "hexo_deploy/themes/cactus/source/css/_highlight/brown-papersq.png",
     "hexo_deploy/themes/cactus/source/images/favicon-192x192.png",
-    "hexo_deploy/themes/cactus/README.md",
-    "hexo_deploy/node_modules/fresh/README.md",
-    "hexo_deploy/node_modules/fresh/HISTORY.md",
-    "hexo_deploy/node_modules/is-binary-path/readme.md",
-    "未命名.canvas",
     "未命名 1.canvas",
     "inbox/未命名.canvas"
   ]

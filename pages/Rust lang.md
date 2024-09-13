@@ -5,9 +5,9 @@ tags:
   - development
   - "#lang"
 ---
+学习 Rust 目的是因为前端很多工具都开始使用 Rust 进行重构，同时学习一门新的语言很有必要，所以 Rust Lang 属于必要的一门课程
 
-- [ ] Programming with Rust #rust ⏳ 2024-06-17
-- [ ] Common Programming Concepts #rust
+- [ ] Common Programming Concepts #rust ⏫ ⏳ 2024-07-06
 
 ## QA
 

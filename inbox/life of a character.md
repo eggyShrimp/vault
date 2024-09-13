@@ -2,6 +2,8 @@
 2. https://blog.typekit.com/2010/10/05/type-rendering-on-the-web/
 3. [OpenType Design-Variation Axis Tag Registry (OpenType 1.9.1) - Typography | Microsoft Learn](https://learn.microsoft.com/en-us/typography/opentype/spec/dvaraxisreg)
 4. [OS新字重档位研发对照开发说明](https://xiaomi.f.mioffice.cn/docx/doxk4nKETL5bab5VsRB5nxe8aIf)
+5. [life of a pixel](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit?usp=sharing) #browser 
+6. [A Closer Look At Font Rendering — Smashing Magazine](https://www.smashingmagazine.com/2012/04/a-closer-look-at-font-rendering/) #font
 
 - [ ] 完成渲染字体文章🔼 📅 2024-06-23 
 
