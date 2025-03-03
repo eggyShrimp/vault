@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07ff95e3d996cb95",
+        "id": "9a6edb9736341fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "27b257a8debf1ad3",
+            "id": "13d270d204f9dbc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "me!.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "me!"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -50,11 +55,13 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -70,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -93,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -110,10 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -124,7 +137,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -132,9 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -142,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -154,7 +171,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -162,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -179,40 +200,46 @@
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "homepage:Open homepage": false,
       "daily-notes:打开/创建今天的日记": false,
-      "canvas:新建白板": false
+      "canvas:新建白板": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "27b257a8debf1ad3",
+  "active": "13d270d204f9dbc8",
   "lastOpenFiles": [
-    "pages/《结构化思考力》掌握.md",
-    "pages/未命名.md",
     "Q&A.md",
-    "pages/未命名 1.md",
+    "me!.md",
+    "pages/JavaScript 高级程序设计小记.md",
+    "pages/编程类型与系统 Programming with Type.md",
+    "inbox/difference between JSON5 and JSON.md",
+    "pages/web-performance-optimization.md",
+    "pages/ideologies-in-web-responsive-design.md",
+    "pages/Google IO 2023 - What's new in Web UI.md",
+    "pages/入门字符的发展简史与概念.md",
+    "pages/Antd Grid 组件源码阅读.md",
     "Home.md",
-    "transform matrix.md",
+    "pages/roadmap.md",
+    "pages/政委座谈会.md",
+    "pages/实用编程指南.md",
+    "assets/Pasted image 20240617205525.png",
+    "pages/Implementation of Chrome extension.md",
+    "pages/React.Dev 阅读.md",
+    "assets/【MIB青苗计划】-政委座谈会（纪要）.pdf",
+    "pages/Google IO 2024 - What's new in Web UI.md",
+    "pages/CRACO 搭建的项目线上缺少 Source Map.md",
+    "inbox/啤酒.md",
+    "inbox/IEEE754 浮点数格式与Javascript number 的特性.md",
+    "pages/读羊脂球随感.md",
+    "inbox/设计稿和 CSS 样式实际渲染存在出入.md",
     "pages/Webcodec 小册.md",
     "pages/View Transition API.md",
-    "pages/移动端对于字体相关逻辑梳理.md",
-    "pages/Monorepo与pnpm：前端项目管理的完美搭档.md",
-    "pages/富文本编辑器 Braft-Editor 优化.md",
-    "inbox/life of a character.md",
-    "pages/政委座谈会.md",
-    "inbox/What's the difference between dependencies devDependencies and peerDependencies in NPM package.md",
-    "inbox/reactjs - what is the difference between React.FC and JSX.Element - Stack Overflow.md",
+    "pages/Rust lang QA.md",
+    "pages/life of a character.md",
+    "assets/鸿蒙学习路线&计划.pdf",
+    "assets/2015_Guidelines_CN.pdf",
+    "assets/64a43522-9582-4686-93bd-db23d9c98b93.jpeg",
+    "assets/Rust学习规划.pdf",
     "未命名.canvas",
-    "2024-07-12.md",
-    "inbox/variable fonts - 更小更灵活的字体.md",
-    "pages/入门字符的发展简史与概念.md",
-    "pages/读羊脂球随感.md",
-    "pages/编程类型与系统 Programming with Type.md",
-    "pages/Antd Grid 组件源码阅读.md",
-    "pages/B 端当前状态管理调研.md",
-    "pages/Color Rendering 屏幕色彩渲染.md",
-    "pages/deploy to github page - Obsidian plugin.md",
-    "pages/Implementation of Chrome extension.md",
-    "inbox/设计稿和 CSS 样式实际渲染存在出入.md",
     "hexo_deploy/themes/minima/source/js/search.min.js",
     "hexo_deploy/themes/minima/source/js/nanobar.min.js",
     "hexo_deploy/themes/minima/source/js/pic.min.js",
@@ -223,16 +250,10 @@
     "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.ttf",
     "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.woff",
     "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.svg",
-    "hexo_deploy/themes/minima/source/fonts/inter-v2-latin-regular.eot",
-    "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.woff2",
-    "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.woff",
-    "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.ttf",
     "hexo_deploy/themes/minima/source/fonts/dm-serif-display-v4-latin-regular.svg",
     "hexo_deploy/public/images/apple-touch-icon.png",
     "hexo_deploy/themes/cactus/source/css/_highlight/school-book.png",
     "hexo_deploy/themes/cactus/source/css/_highlight/pojoaque.jpg",
-    "hexo_deploy/themes/cactus/source/css/_highlight/brown-papersq.png",
-    "hexo_deploy/themes/cactus/source/images/favicon-192x192.png",
     "未命名 1.canvas",
     "inbox/未命名.canvas"
   ]

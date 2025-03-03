@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiLanguage",
-      "TiBrandRust",
-      "🧑‍🎨",
-      "❓",
-      "FabGoogle"
+      "✨",
+      "TiJson",
+      "📜",
+      "TiBrandTypescript",
+      "📙"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,6 @@
   "inbox/荠菜.md": "🍲",
   "inbox/文言文中的定语后置、宾语前置等句型的学习和判别.md": "📑",
   "inbox/IEEE754 浮点数格式与Javascript number 的特性.md": "⌨",
-  "Home.md": "😮",
   "inbox/Page Lifecycle API 页面生命周期 API.md": "🌀",
   "inbox/前端下载文件的5种方法的对比(附加获取文件名 - 掘金.md": "⬇",
   "page/Implementation of Chrome extension.md": "FabFirefoxBrowser",
@@ -54,6 +53,12 @@
   "page/CRACO 搭建的项目线上缺少 Source Map.md": "🐛",
   "page/React.Devs.md": "FabReact",
   "page/政委座谈会.md": "🗣",
-  "inbox/SOTA of state management in React.md": "🧑‍🎨",
-  "page/Rust lang.md": "TiLanguage"
+  "page/Rust lang.md": "TiLanguage",
+  "pages/CRACO 搭建的项目线上缺少 Source Map.md": "FabDev",
+  "pages/web-performance-optimization.md": "FabDev",
+  "pages/入门字符的发展简史与概念.md": "FabFonticons",
+  "inbox/What's the difference between dependencies devDependencies and peerDependencies in NPM package.md": "TiBrandTypescript",
+  "inbox/difference between JSON5 and JSON.md": "TiJson",
+  "me!.md": "😮",
+  "pages/政委座谈会.md": "✨"
 }
